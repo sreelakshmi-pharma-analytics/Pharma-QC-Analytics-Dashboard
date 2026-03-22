@@ -16,33 +16,33 @@ A data-driven analytics approach is required to identify testing patterns and po
 
 ##Project Objectives
 
-• Analyze QC testing activity across pharmaceutical products
-• Evaluate testing distribution across analytical parameters
-• Monitor analyst workload distribution
-• Identify trends in OOS occurrence
-• Support data-driven quality monitoring
+- Analyze QC testing activity across pharmaceutical products
+- Evaluate testing distribution across analytical parameters
+- Monitor analyst workload distribution
+- Identify trends in OOS occurrence
+- Support data-driven quality monitoring
 
 ##Tools Used
 
-• Microsoft Excel
-• Pivot Tables
-• Data Visualization
-• Dashboard Development
+- Microsoft Excel
+- Pivot Tables
+- Data Visualization
+- Dashboard Development
 
 ##Dashboard Insights
 
-• Total batches analyzed: 200
-• Overall OOS rate: 16.5%
-• Testing activity concentrated across key parameters including Assay, Dissolution, and Impurities
-• Analyst workload distribution shows relatively balanced testing allocation
+- Total batches analyzed: 200
+- Overall OOS rate: 16.5%
+- Testing activity concentrated across key parameters including Assay, Dissolution, and Impurities
+- Analyst workload distribution shows relatively balanced testing allocation
 
 ##Business Impact
 
 Data-driven QC analytics enables laboratories to:
-• Identify potential quality risks earlier
-• Improve investigation efficiency
-• Monitor laboratory performance
-• Support regulatory compliance
+- Identify potential quality risks earlier
+- Improve investigation efficiency
+- Monitor laboratory performance
+- Support regulatory compliance
 
 ## Dashboard Preview
 Full case study available in the PDF below.
