@@ -14,7 +14,7 @@ Pharmaceutical QC laboratories generate large volumes of analytical testing data
 Recurring OOS results require detailed investigations which can delay batch release and increase operational workload.
 A data-driven analytics approach is required to identify testing patterns and potential root causes behind OOS occurrences.
 
-##Project Objectives
+## Project Objectives
 
 - Analyze QC testing activity across pharmaceutical products
 - Evaluate testing distribution across analytical parameters
