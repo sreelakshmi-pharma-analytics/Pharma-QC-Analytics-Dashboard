@@ -47,4 +47,4 @@ Data-driven QC analytics enables laboratories to:
 ## Dashboard Preview
 Full case study available in the PDF below.
 Download to explore the complete analysis and insights.
-![Dashboard](Pharma_QC_OOS_Analytics_Dashboard_preview.png.png)
+![Dashboard](Pharma_QC_OOS_Analytics_Dashboard_preview.png)
